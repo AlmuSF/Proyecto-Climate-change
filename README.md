@@ -1,6 +1,6 @@
 # project-da-promo-50-modulo-4-team-4
 
-🌍 ##__Equipo 4: Misión Contra el Cambio Climático__## 🚀
+🌍 ## __Equipo 4: Misión Contra el Cambio Climático__ ## 🚀
 
 ¡Hola, mundo digital! Somos Fer, Sattva, María y Almu, también conocidas como el Equipo 4 💥. En este proyecto nos hemos unido para analizar y visualizar la evolución del cambio climático desde cuatro ángulos clave:
 
@@ -14,7 +14,7 @@
 
 🌫️ __Emisiones de CO₂__ – Porque el planeta no necesita más humo.
 
-🧠 ###__¿Qué hemos hecho?:__###
+🧠 ### __¿Qué hemos hecho?:__ ###
 ¡Aquí va un resumen técnico de lo que hemos hecho! 👇
 
 🐍 __Python:__
@@ -28,10 +28,10 @@ Visualizamos nuestros datos para que todo el mundo entienda qué está pasando c
 Creamos medidas calculadas, columnas nuevas, relaciones entre tablas y modelado de datos.
 
 
-💡 ###__¿Por qué este proyecto?:__###
+💡 ### __¿Por qué este proyecto?:__ ###
 Porque el cambio climático no es una opinión, es un dato. Y nosotras queríamos contar la historia que esconden esos datos, haciéndola accesible y visual para todos.
 
-📎 ###__¿Qué encontrarás en este repo?:__###
+📎 ### __¿Qué encontrarás en este repo?:__ ###
 📁 /data: los CSV.
 
 📁 /scripts: nuestros scripts en Python para limpieza y transformación de datos.
