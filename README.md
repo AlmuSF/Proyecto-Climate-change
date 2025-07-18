@@ -1,6 +1,6 @@
 # project-da-promo-50-modulo-4-team-4
 
-🌍 ## __Equipo 4: Misión Contra el Cambio Climático__ ## 🚀
+🌍 ## __Equipo 4: Misión Contra el Cambio Climático__  🚀
 
 ¡Hola, mundo digital! Somos Fer, Sattva, María y Almu, también conocidas como el Equipo 4 💥. En este proyecto nos hemos unido para analizar y visualizar la evolución del cambio climático desde cuatro ángulos clave:
 
@@ -14,7 +14,7 @@
 
 🌫️ __Emisiones de CO₂__ – Porque el planeta no necesita más humo.
 
-🧠 ### __¿Qué hemos hecho?:__ ###
+🧠 ### __¿Qué hemos hecho?:__
 ¡Aquí va un resumen técnico de lo que hemos hecho! 👇
 
 🐍 __Python:__
