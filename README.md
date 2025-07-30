@@ -1,11 +1,11 @@
-# project-da-promo-50-modulo-4-team-4
+# project-climate-change
 
-# 🌍 Equipo 4: Misión Contra el Cambio Climático 🚀
+# 🌍 Proyecto: Misión Contra el Cambio Climático 🚀
 
 ¡Hola, mundo digital! Somos **Fer, Sattva, María y Almu**, también conocidas como el **Equipo 4** 💥.  
 En este proyecto nos hemos unido para analizar y visualizar la **evolución del cambio climático** desde **cuatro ángulos clave:**
 
-## 🔬 Nuestros 4 ejes de análisis
+## 🔬 Los 4 ejes de análisis
 
 1. 🌊 **Nivel del mar** – Porque no queremos que nuestras ciudades acaben bajo el agua.
 2. 🌽 **Impacto económico en la agricultura** – Porque sin comida, no hay revolución.
@@ -14,25 +14,25 @@ En este proyecto nos hemos unido para analizar y visualizar la **evolución del 
 
 ---
 
-## 🧠 ¿Qué hemos hecho? 
+## 🧠 ¿Qué he hecho? 
 ¡Aquí va un resumen técnico! 👇
 
 ### 🐍 Trabajo con Python
 
-- Cargamos y **limpiamos los datos.**
-- Tratamos valores nulos, renombramos columnas, filtramos por fechas, países y más.
+- Carga y **limpieza de los datos.**
+- Tratamiento de valores nulos, renombrar columnas, filtros por fechas, países y más.
 
 ### 📊 Visualización en Power BI
 
-- Visualizamos nuestros datos para que todos puedan entender qué está pasando con el clima.
-- Creamos **medidas calculadas**, **columnas nuevas**, relaciones entre tablas y un sólido **modelo de datos.**
+- Genero visualización de nuestros datos para que todos puedan entender qué está pasando con el clima.
+- Creo **medidas calculadas**, **columnas nuevas**, relaciones entre tablas y un sólido **modelo de datos.**
 
 ---
 
 ## 💡 ¿Por qué este proyecto?
 
 Porque el cambio climático **no es una opinión**, es un dato.  
-Y nosotras queríamos contar la historia que esconden esos datos, haciéndola accesible y visual para todos.
+Una forma de contar la historia que esconden esos datos, haciéndola accesible y visual para todos.
 
 ---
 
