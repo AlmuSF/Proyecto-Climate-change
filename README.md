@@ -1,4 +1,3 @@
-# project-climate-change
 
 # 🌍 Proyecto: Misión Contra el Cambio Climático 🚀
 
